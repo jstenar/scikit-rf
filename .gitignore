@@ -11,3 +11,4 @@ doc/gh-pages
 build/
 scikit_rf.egg-info/
 dist/
+.ipynb_checkpoints/
